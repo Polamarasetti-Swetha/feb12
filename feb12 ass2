@@ -1,0 +1,10 @@
+a=int(input('Enter a:'))
+b=int(input('Enter b:'))
+if a==b:
+    print('equal')
+elif a>b:
+    print('greatest number is',n1)
+elif a<b:
+    print('smallest number is',n1)
+else:
+    print('not equal')
